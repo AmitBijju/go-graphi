@@ -11,9 +11,11 @@ Purpose
 Goals
 -------
 
-###InProgress
-- Support for GraphQL syntax
+### InProgress
 
-###Future
+- Support for GraphQL syntax
+ 
+### Future
+
 - Export the query and mutation syntax to be passed as payload in HTTP.
 - Support for export of query and mutation syntax for multiple communication protocol 
